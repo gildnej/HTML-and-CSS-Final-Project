@@ -1,0 +1,8 @@
+body{background-image: url('images/blue_background.jpg')}
+#navbar{background-color: gray; margin:50px auto; text-align: center;}
+col-xs-12 {width: 100%;text-align: center;}
+ footer {background: gray; padding: 5px , 0px; text-align: center;}
+/*banner*/
+header {text-align: center; max-width: 100%;}
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+p{font-size: 14pt;}
